@@ -45,14 +45,13 @@ Sanitization complete:  <br/>
 <br />
 Observe the wiped disk:  <br/>
 <img src="https://imgur.com/1b8o6tl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/MzPKMBL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+<img src="https://imgur.com/lZTyzfN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ <img src="https://imgur.com/5UHbl8v.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
